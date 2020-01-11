@@ -4,4 +4,6 @@
 
 ![image](https://raw.githubusercontent.com/BrockThigpen/Note-Taker/master/image/demo.png)
 
-This app allows a user to view, save, and delete notes.
+This application allows a user to view, save, and delete notes. Utilizes Node.js express, and the Heroku platform
+
+To use the application click the 
